@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="polymorphism.BaseLogger"><rhs name\="polymorphism.EmailLogger"/><rhs name\="polymorphism.BaseLogger"/><rhs name\="polymorphism.DatabaseLogger"/></lhs><lhs name\="polymorphism.EmailLogger"><rhs name\="polymorphism.EmailLogger"/></lhs><lhs name\="polymorphism.DatabaseLogger"><rhs name\="polymorphism.DatabaseLogger"/></lhs><lhs name\="polymorphism.CustomerManager"><rhs name\="polymorphism.CustomerManager"/></lhs><lhs name\="overriding.BaseKrediManager"><rhs name\="overriding.OgretmenKrediManager"/><rhs name\="overriding.BaseKrediManager"/></lhs><lhs name\="overriding.OgretmenKrediManager"><rhs name\="overriding.OgretmenKrediManager"/></lhs><lhs name\="abstractClasses.GameCalculator"><rhs name\="abstractClasses.WomanGameCalculator"/></lhs><lhs name\="abstractClasses.WomanGameCalculator"><rhs name\="abstractClasses.WomanGameCalculator"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

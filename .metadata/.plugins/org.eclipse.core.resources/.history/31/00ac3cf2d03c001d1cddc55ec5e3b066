@@ -1,0 +1,12 @@
+package staticDemo;
+
+public class ProductValidator {
+	public static boolean isValid(Product product) {
+		//Utility lerde 1 kez oluşturup her yerde kullanabilmek için "static" öneki eklendi
+		if (product.price>0 && !product.name.isEmpty()) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+}

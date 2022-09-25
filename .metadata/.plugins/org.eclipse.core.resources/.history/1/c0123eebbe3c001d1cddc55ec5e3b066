@@ -1,0 +1,8 @@
+package abstractDemo;
+
+public class MySqlDatabaseManager {
+	public void getData() {
+		System.out.println("Veri getirildi: MySql");
+	}
+
+}

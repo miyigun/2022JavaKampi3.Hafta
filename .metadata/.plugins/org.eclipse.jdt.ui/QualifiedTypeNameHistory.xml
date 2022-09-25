@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="polymorphism.FileLogger"/>
+    <fullyQualifiedTypeName name="polymorphism.EmailLogger"/>
+    <fullyQualifiedTypeName name="polymorphism.ConsoleLogger"/>
+    <fullyQualifiedTypeName name="polymorphism.BaseLogger"/>
+    <fullyQualifiedTypeName name="polymorphism.CustomerManager"/>
+    <fullyQualifiedTypeName name="polymorphism.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.TarimKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.OgrenciKrediManager"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomanGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculator"/>
+</qualifiedTypeNameHistroy>

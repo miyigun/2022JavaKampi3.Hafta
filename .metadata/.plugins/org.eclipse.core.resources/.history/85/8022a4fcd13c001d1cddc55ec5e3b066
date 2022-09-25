@@ -1,0 +1,23 @@
+package staticDemo;
+
+public class ProductValidator {
+	
+	public ProductValidator() {
+		System.out.println("");
+	}
+	
+	//"isValid" static olduğundan ProductValidator" dedikten sonra "." ile direk çağırılabilir.
+	public static boolean isValid(Product product) {
+		//Utility lerde 1 kez oluşturup her yerde kullanabilmek için "static" öneki eklendi
+		//Ama static öğe sürekli olarak hafızada yer tuttuğundan pahalıya mal olur. Dikkatli kullanmak gerekir.
+		if (product.price>0 && !product.name.isEmpty()) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	//Aşağıdaki metodu çağırabilmek için "ProductValidator" u new lememiz lazım. Ama static yapsaydık "." ile çağırabilirdik.
+	public void bisey() {
+		
+	}
+}
