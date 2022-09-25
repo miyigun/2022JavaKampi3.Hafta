@@ -25,12 +25,15 @@ public class ProductValidator {
 		}
 	}
 	//Aşağıdaki metodu çağırabilmek için "ProductValidator" u new lememiz lazım. Ama static yapsaydık "." ile çağırabilirdik.
-	public void bisey() {
+public void bisey() {
 		
 	}
 	
 	//Inner Class
 	//Gruplandırma amaçlı kullanılır
-	public static class BaskaBirClass{
-		public static void Sil() {}
+public static class BaskaBirClass{
+	public static void Sil() {
+		
+	}
+}
 }
