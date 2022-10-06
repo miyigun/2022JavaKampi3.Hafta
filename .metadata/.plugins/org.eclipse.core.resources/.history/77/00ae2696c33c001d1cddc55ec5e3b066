@@ -1,7 +1,0 @@
-package interfaces;
-
-public class CustomerManager {
-	public void add() {
-		//İş kodları
-	}
-}

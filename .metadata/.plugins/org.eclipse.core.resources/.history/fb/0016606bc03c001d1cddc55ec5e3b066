@@ -1,5 +1,0 @@
-package interfaces;
-//Dal=>Data Access Layer
-public class MySqlCustomerDal implements ICustomerDal {
-	
-}

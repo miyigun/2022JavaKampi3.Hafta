@@ -6,7 +6,6 @@ import oopWithNLayeredApp.core.logging.FileLogger;
 import oopWithNLayeredApp.core.logging.Logger;
 import oopWithNLayeredApp.core.logging.MailLogger;
 import oopWithNLayeredApp.dataAccess.HibernateProductDao;
-import oopWithNLayeredApp.dataAccess.JdbcProductDao;
 import oopWithNLayeredApp.entities.Product;
 
 public class Main {

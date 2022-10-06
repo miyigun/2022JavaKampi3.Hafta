@@ -1,9 +1,0 @@
-package staticDemo;
-
-public class DatabaseHelper {
-	public static class Crud{
-		//CRUD=> Create Read Update Delete
-		
-	}
-
-}

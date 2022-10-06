@@ -1,8 +1,0 @@
-package abstractClasses;
-
-public class WomanGameCalculatorpublic double hesapla(double tutar) {
-	return tutar*1.18;
-}
-} {
-
-}
